@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifytutorial7172b2c2": {}
+      },
+      "api": {
+        "amplifytutorial": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
